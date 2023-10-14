@@ -1,0 +1,155 @@
+Setting environment for using Microsoft Visual Studio 2008 x86 tools.
+======================================== [ "chapter.7.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.2.cpp
+chapter.7.2.cpp(120) : warning C4127: conditional expression is constant
+chapter.7.2.cpp(149) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.2.exe 
+chapter.7.2.obj 
+======================================== [ "chapter.7.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.3.cpp
+chapter.7.3.cpp(120) : warning C4127: conditional expression is constant
+chapter.7.3.cpp(149) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.3.exe 
+chapter.7.3.obj 
+======================================== [ "chapter.7.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.4.cpp
+chapter.7.4.cpp(124) : warning C4127: conditional expression is constant
+chapter.7.4.cpp(153) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.4.exe 
+chapter.7.4.obj 
+======================================== [ "chapter.7.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.5.cpp
+chapter.7.5.cpp(124) : warning C4127: conditional expression is constant
+chapter.7.5.cpp(165) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.5.exe 
+chapter.7.5.obj 
+======================================== [ "chapter.7.6.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.6.1.cpp
+chapter.7.6.1.cpp(132) : warning C4127: conditional expression is constant
+chapter.7.6.1.cpp(170) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.6.1.exe 
+chapter.7.6.1.obj 
+======================================== [ "chapter.7.6.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.6.2.cpp
+chapter.7.6.2.cpp(132) : warning C4127: conditional expression is constant
+chapter.7.6.2.cpp(170) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.6.2.exe 
+chapter.7.6.2.obj 
+======================================== [ "chapter.7.6.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.6.3.cpp
+chapter.7.6.3.cpp(185) : warning C4127: conditional expression is constant
+chapter.7.6.3.cpp(223) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.6.3.exe 
+chapter.7.6.3.obj 
+======================================== [ "chapter.7.7-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.7-better.cpp
+chapter.7.7-better.cpp(204) : warning C4127: conditional expression is constant
+chapter.7.7-better.cpp(242) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.7-better.exe 
+chapter.7.7-better.obj 
+======================================== [ "chapter.7.7-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.7-problematic.cpp
+chapter.7.7-problematic.cpp(185) : warning C4127: conditional expression is constant
+chapter.7.7-problematic.cpp(223) : warning C4127: conditional expression is constant
+chapter.7.7-problematic.cpp(244) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.7-problematic.exe 
+chapter.7.7-problematic.obj 
+======================================== [ "chapter.7.8.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.8.1.cpp
+chapter.7.8.1.cpp(205) : warning C4018: '<' : signed/unsigned mismatch
+chapter.7.8.1.cpp(215) : warning C4018: '<' : signed/unsigned mismatch
+chapter.7.8.1.cpp(228) : warning C4018: '<' : signed/unsigned mismatch
+chapter.7.8.1.cpp(282) : warning C4127: conditional expression is constant
+chapter.7.8.1.cpp(320) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.8.1.exe 
+chapter.7.8.1.obj 
+======================================== [ "chapter.7.8.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.8.2.cpp
+chapter.7.8.2.cpp(206) : warning C4018: '<' : signed/unsigned mismatch
+chapter.7.8.2.cpp(216) : warning C4018: '<' : signed/unsigned mismatch
+chapter.7.8.2.cpp(229) : warning C4018: '<' : signed/unsigned mismatch
+chapter.7.8.2.cpp(283) : warning C4127: conditional expression is constant
+chapter.7.8.2.cpp(321) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.8.2.exe 
+chapter.7.8.2.obj 
+======================================== [ "chapter.7.8.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.7.8.3.cpp
+chapter.7.8.3.cpp(206) : warning C4018: '<' : signed/unsigned mismatch
+chapter.7.8.3.cpp(216) : warning C4018: '<' : signed/unsigned mismatch
+chapter.7.8.3.cpp(229) : warning C4018: '<' : signed/unsigned mismatch
+chapter.7.8.3.cpp(283) : warning C4127: conditional expression is constant
+chapter.7.8.3.cpp(321) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.7.8.3.exe 
+chapter.7.8.3.obj 

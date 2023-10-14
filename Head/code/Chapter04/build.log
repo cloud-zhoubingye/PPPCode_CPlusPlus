@@ -1,0 +1,258 @@
+======================================== [ "chapter.4.3.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.3.1.cpp
+chapter.4.3.1.cpp(14) : warning C4244: 'initializing' : conversion from 'const double' to 'int', possible loss of data
+chapter.4.3.1.cpp(19) : warning C4552: '+' : operator has no effect; expected operator with side-effect
+chapter.4.3.1.cpp(14) : warning C4189: 'v' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.3.1.exe 
+chapter.4.3.1.obj 
+======================================== [ "chapter.4.3.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.3.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.3.2.exe 
+chapter.4.3.2.obj 
+======================================== [ "chapter.4.3.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.3.3.cpp
+chapter.4.3.3.cpp(17) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+chapter.4.3.3.cpp(20) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+chapter.4.3.3.cpp(25) : warning C4189: 'df' : local variable is initialized but not referenced
+chapter.4.3.3.cpp(31) : warning C4189: 'df' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.3.3.exe 
+chapter.4.3.3.obj 
+======================================== [ "chapter.4.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.3.cpp
+chapter.4.3.cpp(14) : warning C4189: 'area' : local variable is initialized but not referenced
+chapter.4.3.cpp(19) : warning C4189: 'perimeter' : local variable is initialized but not referenced
+chapter.4.3.cpp(23) : warning C4189: 'perimeter' : local variable is initialized but not referenced
+chapter.4.3.cpp(27) : warning C4189: 'perimeter' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.3.exe 
+chapter.4.3.obj 
+======================================== [ "chapter.4.4.1.1-improved.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.1.1-improved.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.1.1-improved.exe 
+chapter.4.4.1.1-improved.obj 
+======================================== [ "chapter.4.4.1.1-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.1.1-problematic.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.1.1-problematic.exe 
+chapter.4.4.1.1-problematic.obj 
+======================================== [ "chapter.4.4.1.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.1.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.1.1.exe 
+chapter.4.4.1.1.obj 
+======================================== [ "chapter.4.4.1.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.1.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.1.2.exe 
+chapter.4.4.1.2.obj 
+======================================== [ "chapter.4.4.1.3-multiple.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.1.3-multiple.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.1.3-multiple.exe 
+chapter.4.4.1.3-multiple.obj 
+======================================== [ "chapter.4.4.1.3-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.1.3-problematic.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.1.3-problematic.exe 
+chapter.4.4.1.3-problematic.obj 
+======================================== [ "chapter.4.4.1.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.1.3.cpp
+chapter.4.4.1.3.cpp(14) : warning C4189: 'y' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.1.3.exe 
+chapter.4.4.1.3.obj 
+======================================== [ "chapter.4.4.2.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.2.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.2.2.exe 
+chapter.4.4.2.2.obj 
+======================================== [ "chapter.4.4.2.3-even.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.2.3-even.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.2.3-even.exe 
+chapter.4.4.2.3-even.obj 
+======================================== [ "chapter.4.4.2.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.2.3.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.2.3.exe 
+chapter.4.4.2.3.obj 
+======================================== [ "chapter.4.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.4.cpp
+chapter.4.4.cpp(21) : warning C4552: '*' : operator has no effect; expected operator with side-effect
+chapter.4.4.cpp(27) : warning C4390: ';' : empty controlled statement found; is this the intent?
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.4.exe 
+chapter.4.4.obj 
+======================================== [ "chapter.4.5.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.5.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.5.1.exe 
+chapter.4.5.1.obj 
+======================================== [ "chapter.4.5.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.5.2.cpp
+chapter.4.5.2.cpp(16) : warning C4189: 'x' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.5.2.exe 
+chapter.4.5.2.obj 
+======================================== [ "chapter.4.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.5.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.5.exe 
+chapter.4.5.obj 
+======================================== [ "chapter.4.6.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.6.1.cpp
+chapter.4.6.1.cpp(24) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.6.1.exe 
+chapter.4.6.1.obj 
+======================================== [ "chapter.4.6.2-average.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.6.2-average.cpp
+chapter.4.6.2-average.cpp(21) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.6.2-average.exe 
+chapter.4.6.2-average.obj 
+======================================== [ "chapter.4.6.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.6.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.6.2.exe 
+chapter.4.6.2.obj 
+======================================== [ "chapter.4.6.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.6.3.cpp
+chapter.4.6.3.cpp(23) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.6.3.exe 
+chapter.4.6.3.obj 
+======================================== [ "chapter.4.6.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.6.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.6.exe 
+chapter.4.6.obj 
+======================================== [ "chapter.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.4.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.4.exe 
+chapter.4.obj 

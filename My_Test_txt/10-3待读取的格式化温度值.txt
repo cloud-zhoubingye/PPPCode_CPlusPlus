@@ -1,0 +1,3 @@
+{ year 2004 { month may } }
+{ year 1998 { month jan ( 1 0 15 ) } { month feb ( 1 1 24.5 ) ( 2 2 35.9 ) ( 2 3 35.8 ) } }
+{ year 1999 { month dec ( 15 20 23 ) } }

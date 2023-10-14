@@ -1,0 +1,264 @@
+======================================== [ "chapter.9.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.2.exe 
+chapter.9.2.obj 
+======================================== [ "chapter.9.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.3.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.3.exe 
+chapter.9.3.obj 
+======================================== [ "chapter.9.4.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.4.1.cpp
+chapter.9.4.1.cpp(20) : warning C4100: 'd' : unreferenced formal parameter
+chapter.9.4.1.cpp(20) : warning C4100: 'm' : unreferenced formal parameter
+chapter.9.4.1.cpp(20) : warning C4100: 'y' : unreferenced formal parameter
+chapter.9.4.1.cpp(20) : warning C4100: 'dd' : unreferenced formal parameter
+chapter.9.4.1.cpp(28) : warning C4100: 'n' : unreferenced formal parameter
+chapter.9.4.1.cpp(28) : warning C4100: 'dd' : unreferenced formal parameter
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.4.1.exe 
+chapter.9.4.1.obj 
+======================================== [ "chapter.9.4.2-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.4.2-better.cpp
+chapter.9.4.2-better.cpp(21) : warning C4100: 'n' : unreferenced formal parameter
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.4.2-better.exe 
+chapter.9.4.2-better.obj 
+======================================== [ "chapter.9.4.2-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.4.2-problematic.cpp
+chapter.9.4.2-problematic.cpp(24) : warning C4100: 'd' : unreferenced formal parameter
+chapter.9.4.2-problematic.cpp(24) : warning C4100: 'm' : unreferenced formal parameter
+chapter.9.4.2-problematic.cpp(24) : warning C4100: 'y' : unreferenced formal parameter
+chapter.9.4.2-problematic.cpp(24) : warning C4100: 'dd' : unreferenced formal parameter
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.4.2-problematic.exe 
+chapter.9.4.2-problematic.obj 
+======================================== [ "chapter.9.4.3-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.4.3-better.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.4.3-better.exe 
+chapter.9.4.3-better.obj 
+======================================== [ "chapter.9.4.3-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.4.3-problematic.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.4.3-problematic.exe 
+chapter.9.4.3-problematic.obj 
+======================================== [ "chapter.9.4.4-inside.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.4.4-inside.cpp
+chapter.9.4.4-inside.cpp(18) : warning C4100: 'n' : unreferenced formal parameter
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.4.4-inside.exe 
+chapter.9.4.4-inside.obj 
+======================================== [ "chapter.9.4.4-outside.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.4.4-outside.cpp
+chapter.9.4.4-outside.cpp(29) : warning C4100: 'n' : unreferenced formal parameter
+chapter.9.4.4-outside.cpp(45) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.9.4.4-outside.cpp(49) : warning C4189: 'x' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.4.4-outside.exe 
+chapter.9.4.4-outside.obj 
+======================================== [ "chapter.9.4.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.4.5.cpp
+chapter.9.4.5.cpp(21) : warning C4100: 'n' : unreferenced formal parameter
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.4.5.exe 
+chapter.9.4.5.obj 
+======================================== [ "chapter.9.4.6.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.4.6.cpp
+chapter.9.4.6.cpp(21) : warning C4100: 'n' : unreferenced formal parameter
+c:\documents and settings\bs\desktop\112slides\code\chapter09\chapter.9.4.6.cpp(42) : warning C4715: 'Date::check' : not all control paths return a value
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.4.6.exe 
+chapter.9.4.6.obj 
+======================================== [ "chapter.9.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.5.cpp
+chapter.9.5.cpp(43) : warning C4189: 'mm' : local variable is initialized but not referenced
+chapter.9.5.cpp(54) : warning C4189: 'n' : local variable is initialized but not referenced
+chapter.9.5.cpp(55) : warning C4189: 'mm' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.5.exe 
+chapter.9.5.obj 
+======================================== [ "chapter.9.6.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.6.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.6.exe 
+chapter.9.6.obj 
+======================================== [ "chapter.9.7.1-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.7.1-better.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.7.1-better.exe 
+chapter.9.7.1-better.obj 
+======================================== [ "chapter.9.7.1-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.7.1-problematic.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.7.1-problematic.exe 
+chapter.9.7.1-problematic.obj 
+======================================== [ "chapter.9.7.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.7.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.7.2.exe 
+chapter.9.7.2.obj 
+======================================== [ "chapter.9.7.3-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.7.3-better.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.7.3-better.exe 
+chapter.9.7.3-better.obj 
+======================================== [ "chapter.9.7.3-problematic.crash.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.7.3-problematic.crash.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.7.3-problematic.crash.exe 
+chapter.9.7.3-problematic.crash.obj 
+======================================== [ "chapter.9.7.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.7.4.cpp
+chapter.9.7.4.cpp(44) : warning C4100: 'n' : unreferenced formal parameter
+chapter.9.7.4.cpp(50) : warning C4189: 'a' : local variable is initialized but not referenced
+chapter.9.7.4.cpp(51) : warning C4189: 'b' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.7.4.exe 
+chapter.9.7.4.obj 
+======================================== [ "chapter.9.7.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.7.5.cpp
+chapter.9.7.5.cpp(44) : warning C4100: 'y' : unreferenced formal parameter
+chapter.9.7.5.cpp(44) : warning C4100: 'm' : unreferenced formal parameter
+chapter.9.7.5.cpp(44) : warning C4100: 'd' : unreferenced formal parameter
+chapter.9.7.5.cpp(68) : warning C4100: 'y' : unreferenced formal parameter
+chapter.9.7.5.cpp(68) : warning C4100: 'm' : unreferenced formal parameter
+chapter.9.7.5.cpp(68) : warning C4100: 'd' : unreferenced formal parameter
+chapter.9.7.5.cpp(69) : warning C4100: 'b' : unreferenced formal parameter
+chapter.9.7.5.cpp(69) : warning C4100: 'a' : unreferenced formal parameter
+chapter.9.7.5.cpp(79) : warning C4101: 'dd' : unreferenced local variable
+chapter.9.7.5.cpp(78) : warning C4189: 'b' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.7.5.exe 
+chapter.9.7.5.obj 
+======================================== [ "chapter.9.8.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.9.8.cpp
+chapter.9.8.cpp(103) : warning C4100: 'n' : unreferenced formal parameter
+chapter.9.8.cpp(110) : warning C4100: 'n' : unreferenced formal parameter
+chapter.9.8.cpp(154) : warning C4100: 'y' : unreferenced formal parameter
+chapter.9.8.cpp(210) : warning C4100: 'd' : unreferenced formal parameter
+chapter.9.8.cpp(243) : warning C4189: 'd' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.9.8.exe 
+chapter.9.8.obj 
+======================================== [ "Chrono.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+Chrono.cpp
+Chrono.cpp(40) : warning C4100: 'n' : unreferenced formal parameter
+Chrono.cpp(47) : warning C4100: 'n' : unreferenced formal parameter
+Chrono.cpp(91) : warning C4100: 'y' : unreferenced formal parameter
+Chrono.cpp(147) : warning C4100: 'd' : unreferenced formal parameter
+Chrono.cpp(180) : warning C4189: 'd' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:Chrono.exe 
+Chrono.obj 

@@ -1,0 +1,216 @@
+======================================== [ "chapter.5.11.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.11.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.11.exe 
+chapter.5.11.obj 
+======================================== [ "chapter.5.3.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.3.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.3.1.exe 
+chapter.5.3.1.obj 
+======================================== [ "chapter.5.3.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.3.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.3.2.exe 
+chapter.5.3.2.obj 
+======================================== [ "chapter.5.3.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.3.3.cpp
+chapter.5.3.3.cpp(16) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+chapter.5.3.3.cpp(16) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+chapter.5.3.3.cpp(17) : warning C4244: 'initializing' : conversion from 'int' to 'char', possible loss of data
+chapter.5.3.3.cpp(16) : warning C4189: 'x5' : local variable is initialized but not referenced
+chapter.5.3.3.cpp(15) : warning C4189: 'x4' : local variable is initialized but not referenced
+chapter.5.3.3.cpp(17) : warning C4189: 'x6' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.3.3.exe 
+chapter.5.3.3.obj 
+======================================== [ "chapter.5.4.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.4.no-link.cpp
+chapter.5.4.no-link.cpp(15) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.5.4.no-link.cpp(26) : warning C4100: 'unit' : unreferenced formal parameter
+======================================== [ "chapter.5.5.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.5.1.cpp
+chapter.5.5.1.cpp(57) : warning C4127: conditional expression is constant
+chapter.5.5.1.cpp(37) : warning C4189: 'area1' : local variable is initialized but not referenced
+chapter.5.5.1.cpp(52) : warning C4189: 'ratio' : local variable is initialized but not referenced
+chapter.5.5.1.cpp(48) : warning C4189: 'area2' : local variable is initialized but not referenced
+chapter.5.5.1.cpp(59) : warning C4189: 'area2' : local variable is initialized but not referenced
+chapter.5.5.1.cpp(62) : warning C4189: 'area3' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.5.1.exe 
+chapter.5.5.1.obj 
+======================================== [ "chapter.5.5.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.5.2.cpp
+chapter.5.5.2.cpp(44) : warning C4189: 'ratio' : local variable is initialized but not referenced
+chapter.5.5.2.cpp(42) : warning C4189: 'area2' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.5.2.exe 
+chapter.5.5.2.obj 
+======================================== [ "chapter.5.5.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.5.3.cpp
+chapter.5.5.3.cpp(56) : warning C4189: 'ratio' : local variable is initialized but not referenced
+chapter.5.5.3.cpp(77) : warning C4189: 'answer' : local variable is initialized but not referenced
+c:\documents and settings\bs\desktop\112slides\code\chapter05\chapter.5.5.3.cpp(62) : warning C4715: 'f' : not all control paths return a value
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.5.3.exe 
+chapter.5.5.3.obj 
+======================================== [ "chapter.5.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.5.cpp
+chapter.5.5.cpp(32) : warning C4189: 'ratio' : local variable is initialized but not referenced
+chapter.5.5.cpp(30) : warning C4189: 'area2' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.5.exe 
+chapter.5.5.obj 
+======================================== [ "chapter.5.6.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.6.1.cpp
+chapter.5.6.1.cpp(44) : warning C4189: 'ratio' : local variable is initialized but not referenced
+chapter.5.6.1.cpp(42) : warning C4189: 'area2' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.6.1.exe 
+chapter.5.6.1.obj 
+======================================== [ "chapter.5.6.2.crash.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.6.2.crash.cpp
+chapter.5.6.2.crash.cpp(16) : warning C4018: '<=' : signed/unsigned mismatch
+chapter.5.6.2.crash.cpp(25) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.5.6.2.crash.cpp(35) : warning C4018: '<=' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.6.2.crash.exe 
+chapter.5.6.2.crash.obj 
+======================================== [ "chapter.5.6.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.6.3.cpp
+c:\documents and settings\bs\desktop\112slides\code\chapter05\chapter.5.6.3.cpp(17) : warning C4715: 'some_function' : not all control paths return a value
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.6.3.exe 
+chapter.5.6.3.obj 
+======================================== [ "chapter.5.6.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.6.4.cpp
+chapter.5.6.4.cpp(14) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+chapter.5.6.4.cpp(15) : warning C4305: 'initializing' : truncation from 'int' to 'char'
+chapter.5.6.4.cpp(15) : warning C4309: 'initializing' : truncation of constant value
+chapter.5.6.4.cpp(18) : warning C4189: 'x2' : local variable is initialized but not referenced
+chapter.5.6.4.cpp(14) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.5.6.4.cpp(19) : warning C4189: 'c1' : local variable is initialized but not referenced
+chapter.5.6.4.cpp(20) : warning C4189: 'c2' : local variable is initialized but not referenced
+chapter.5.6.4.cpp(17) : warning C4189: 'x1' : local variable is initialized but not referenced
+chapter.5.6.4.cpp(15) : warning C4189: 'c' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.6.4.exe 
+chapter.5.6.4.obj 
+======================================== [ "chapter.5.7-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.7-better.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.7-better.exe 
+chapter.5.7-better.obj 
+======================================== [ "chapter.5.7-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.7-problematic.cpp
+chapter.5.7-problematic.cpp(23) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.7-problematic.exe 
+chapter.5.7-problematic.obj 
+======================================== [ "chapter.5.8.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.8.1.cpp
+c:\documents and settings\bs\desktop\112slides\code\chapter05\chapter.5.8.1.cpp(41) : warning C4715: 'my_complicated_function' : not all control paths return a value
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.8.1.exe 
+chapter.5.8.1.obj 
+======================================== [ "chapter.5.9.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.9.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.9.1.exe 
+chapter.5.9.1.obj 
+======================================== [ "chapter.5.9.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.5.9.cpp
+chapter.5.9.cpp(25) : warning C4189: 'y' : local variable is initialized but not referenced
+chapter.5.9.cpp(26) : warning C4189: 'z' : local variable is initialized but not referenced
+c:\documents and settings\bs\desktop\112slides\code\chapter05\chapter.5.9.cpp(17) : warning C4715: 'my_complicated_function' : not all control paths return a value
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.5.9.exe 
+chapter.5.9.obj 

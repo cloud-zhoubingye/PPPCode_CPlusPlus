@@ -1,0 +1,4 @@
+AAA EMei water 1.0 55.6 rice 0.56 500
+BBB LeShan apple 6.5 5.5 banana 6 2.6 orange 4.5 7.8
+CCC ChengDu cookie 25.8 3.46
+DDD ShangHai lenmon 9.9 3.3 grapes 15.9 2.2

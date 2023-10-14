@@ -1,0 +1,326 @@
+======================================== [ "chapter.8.2-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.2-better.cpp
+chapter.8.2-better.cpp(32) : warning C4100: 'd' : unreferenced formal parameter
+c:\documents and settings\bs\desktop\112slides\code\chapter08\chapter.8.2-better.cpp(46) : warning C4717: 'primary' : recursive on all control paths, function will cause runtime stack overflow
+c:\documents and settings\bs\desktop\112slides\code\chapter08\chapter.8.2-better.cpp(53) : warning C4702: unreachable code
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.2-better.exe 
+chapter.8.2-better.obj 
+======================================== [ "chapter.8.2-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.2-problematic.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.2-problematic.exe 
+chapter.8.2-problematic.obj 
+======================================== [ "chapter.8.2.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.2.2.cpp
+chapter.8.2.2.cpp(18) : warning C4189: 'x2' : local variable is initialized but not referenced
+chapter.8.2.2.cpp(17) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.8.2.2.cpp(13) : warning C4101: 'a' : unreferenced local variable
+chapter.8.2.2.cpp(14) : warning C4189: 'd' : local variable is initialized but not referenced
+chapter.8.2.2.cpp(26) : warning C4100: 'z' : unreferenced formal parameter
+c:\documents and settings\bs\desktop\112slides\code\chapter08\chapter.8.2.2.cpp(43) : warning C4700: uninitialized local variable 'x' used
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.2.2.exe 
+chapter.8.2.2.obj 
+======================================== [ "chapter.8.2.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.2.3.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.2.3.exe 
+chapter.8.2.3.obj 
+======================================== [ "chapter.8.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.3.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.3.exe 
+chapter.8.3.obj 
+======================================== [ "chapter.8.4-one.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.4-one.cpp
+chapter.8.4-one.cpp(29) : warning C4189: 'y' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.4-one.exe 
+chapter.8.4-one.obj 
+======================================== [ "chapter.8.4-three.crash.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.4-three.crash.cpp
+c:\documents and settings\bs\desktop\112slides\code\chapter08\chapter.8.4-three.crash.cpp(72) : warning C4717: 'X::f' : recursive on all control paths, function will cause runtime stack overflow
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.4-three.crash.exe 
+chapter.8.4-three.crash.obj 
+======================================== [ "chapter.8.4-two.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.4-two.cpp
+chapter.8.4-two.cpp(13) : warning C4189: 'z' : local variable is initialized but not referenced
+chapter.8.4-two.cpp(59) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.4-two.exe 
+chapter.8.4-two.obj 
+======================================== [ "chapter.8.5.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.1.cpp
+chapter.8.5.1.cpp(28) : warning C4018: '<=' : signed/unsigned mismatch
+chapter.8.5.1.cpp(29) : warning C4018: '<' : signed/unsigned mismatch
+chapter.8.5.1.cpp(45) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.1.exe 
+chapter.8.5.1.obj 
+======================================== [ "chapter.8.5.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.2.cpp
+chapter.8.5.2.cpp(18) : warning C4244: 'return' : conversion from 'V' to 'T', possible loss of data
+chapter.8.5.2.cpp(28) : warning C4244: 'initializing' : conversion from 'V' to 'T', possible loss of data
+chapter.8.5.2.cpp(25) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.8.5.2.cpp(28) : warning C4189: 't' : local variable is initialized but not referenced
+chapter.8.5.2.cpp(44) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\chapter08\chapter.8.5.2.cpp(18) : warning C4700: uninitialized local variable 'v' used
+c:\documents and settings\bs\desktop\112slides\code\chapter08\chapter.8.5.2.cpp(25) : warning C4700: uninitialized local variable 'v' used
+c:\documents and settings\bs\desktop\112slides\code\chapter08\chapter.8.5.2.cpp(28) : warning C4700: uninitialized local variable 'v' used
+c:\documents and settings\bs\desktop\112slides\code\chapter08\chapter.8.5.2.cpp(40) : warning C4715: 'my_abs' : not all control paths return a value
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.2.exe 
+chapter.8.5.2.obj 
+======================================== [ "chapter.8.5.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.3.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.3.exe 
+chapter.8.5.3.obj 
+======================================== [ "chapter.8.5.4-one.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.4-one.cpp
+chapter.8.5.4-one.cpp(14) : warning C4018: '<' : signed/unsigned mismatch
+chapter.8.5.4-one.cpp(16) : warning C4389: '!=' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.4-one.exe 
+chapter.8.5.4-one.obj 
+======================================== [ "chapter.8.5.4-two.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.4-two.cpp
+chapter.8.5.4-two.cpp(14) : warning C4018: '<' : signed/unsigned mismatch
+chapter.8.5.4-two.cpp(16) : warning C4389: '!=' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.4-two.exe 
+chapter.8.5.4-two.obj 
+======================================== [ "chapter.8.5.5-one.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.5-one.cpp
+chapter.8.5.5-one.cpp(13) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.5-one.exe 
+chapter.8.5.5-one.obj 
+======================================== [ "chapter.8.5.5-three.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.5-three.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.5-three.exe 
+chapter.8.5.5-three.obj 
+======================================== [ "chapter.8.5.5-two.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.5-two.cpp
+chapter.8.5.5-two.cpp(24) : warning C4189: 'val' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.5-two.exe 
+chapter.8.5.5-two.obj 
+======================================== [ "chapter.8.5.6.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.6.cpp
+chapter.8.5.6.cpp(11) : warning C4100: 'cr' : unreferenced formal parameter
+chapter.8.5.6.cpp(24) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.8.5.6.cpp(58) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.6.exe 
+chapter.8.5.6.obj 
+======================================== [ "chapter.8.5.7.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.7.cpp
+chapter.8.5.7.cpp(15) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.8.5.7.cpp(25) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.8.5.7.cpp(34) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+chapter.8.5.7.cpp(41) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+chapter.8.5.7.cpp(47) : warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.5.7.exe 
+chapter.8.5.7.obj 
+======================================== [ "chapter.8.5.8.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.5.8.no-link.cpp
+chapter.8.5.8.no-link.cpp(52) : warning C4189: 'd' : local variable is initialized but not referenced
+chapter.8.5.8.no-link.cpp(68) : warning C4189: 'd' : local variable is initialized but not referenced
+======================================== [ "chapter.8.6.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.6.1.cpp
+chapter.8.6.1.cpp(25) : warning C4189: 'x' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.6.1.exe 
+chapter.8.6.1.obj 
+======================================== [ "chapter.8.6.2-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.6.2-better.cpp
+chapter.8.6.2-better.cpp(9) : warning C4100: 'd' : unreferenced formal parameter
+chapter.8.6.2-better.cpp(9) : warning C4100: 'm' : unreferenced formal parameter
+chapter.8.6.2-better.cpp(9) : warning C4100: 'y' : unreferenced formal parameter
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.6.2-better.exe 
+chapter.8.6.2-better.obj 
+======================================== [ "chapter.8.6.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.6.cpp
+chapter.8.6.cpp(20) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.6.exe 
+chapter.8.6.obj 
+======================================== [ "chapter.8.7.1-one.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.7.1-one.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.7.1-one.exe 
+chapter.8.7.1-one.obj 
+======================================== [ "chapter.8.7.1-three.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.7.1-three.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.7.1-three.exe 
+chapter.8.7.1-three.obj 
+======================================== [ "chapter.8.7.1-two.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.7.1-two.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.7.1-two.exe 
+chapter.8.7.1-two.obj 
+======================================== [ "chapter.8.7.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.7.no-link.cpp
+======================================== [ "chapter.8.8.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.8.8.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.8.8.exe 
+chapter.8.8.obj 
+======================================== [ "f.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+f.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:f.exe 
+f.obj 
+======================================== [ "f1.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+f1.no-link.cpp
+======================================== [ "f2.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+f2.no-link.cpp

@@ -1,0 +1,156 @@
+======================================== [ "chapter.6.3.1-first.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.3.1-first.cpp
+c:\documents and settings\bs\desktop\112slides\code\chapter06\chapter.6.3.1-first.cpp(25) : warning C4701: potentially uninitialized local variable 'res' used
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.6.3.1-first.exe 
+chapter.6.3.1-first.obj 
+======================================== [ "chapter.6.3.1-second.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.3.1-second.cpp
+c:\documents and settings\bs\desktop\112slides\code\chapter06\chapter.6.3.1-second.cpp(26) : warning C4701: potentially uninitialized local variable 'rval' used
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.6.3.1-second.exe 
+chapter.6.3.1-second.obj 
+======================================== [ "chapter.6.3.3-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.3.3-better.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.6.3.3-better.exe 
+chapter.6.3.3-better.obj 
+======================================== [ "chapter.6.3.3-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.3.3-problematic.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.6.3.3-problematic.exe 
+chapter.6.3.3-problematic.obj 
+======================================== [ "chapter.6.3.4.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.3.4.no-link.cpp
+chapter.6.3.4.no-link.cpp(40) : warning C4018: '<' : signed/unsigned mismatch
+chapter.6.3.4.no-link.cpp(42) : warning C4189: 'd' : local variable is initialized but not referenced
+======================================== [ "chapter.6.5.2.1.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.5.2.1.no-link.cpp
+c:\documents and settings\bs\desktop\112slides\code\chapter06\chapter.6.5.2.1.no-link.cpp(43) : warning C4717: 'expression' : recursive on all control paths, function will cause runtime stack overflow
+======================================== [ "chapter.6.5.2.2.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.5.2.2.no-link.cpp
+======================================== [ "chapter.6.5.2.3-better.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.5.2.3-better.no-link.cpp
+chapter.6.5.2.3-better.no-link.cpp(33) : warning C4127: conditional expression is constant
+======================================== [ "chapter.6.5.2.3-problematic.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.5.2.3-problematic.no-link.cpp
+======================================== [ "chapter.6.5.3-better.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.5.3-better.no-link.cpp
+chapter.6.5.3-better.no-link.cpp(35) : warning C4127: conditional expression is constant
+======================================== [ "chapter.6.5.3-problematic.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.5.3-problematic.no-link.cpp
+chapter.6.5.3-problematic.no-link.cpp(33) : warning C4127: conditional expression is constant
+======================================== [ "chapter.6.5.4.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.5.4.no-link.cpp
+======================================== [ "chapter.6.6-better.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.6-better.no-link.cpp
+chapter.6.6-better.no-link.cpp(74) : warning C4127: conditional expression is constant
+chapter.6.6-better.no-link.cpp(98) : warning C4127: conditional expression is constant
+======================================== [ "chapter.6.6-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.6-problematic.cpp
+chapter.6.6-problematic.cpp(97) : warning C4127: conditional expression is constant
+chapter.6.6-problematic.cpp(120) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.6.6-problematic.exe 
+chapter.6.6-problematic.obj 
+======================================== [ "chapter.6.7.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.7.cpp
+chapter.6.7.cpp(120) : warning C4127: conditional expression is constant
+chapter.6.7.cpp(149) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.6.7.exe 
+chapter.6.7.obj 
+======================================== [ "chapter.6.8.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.8.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.6.8.1.exe 
+chapter.6.8.1.obj 
+======================================== [ "chapter.6.8.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.8.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.6.8.2.exe 
+chapter.6.8.2.obj 
+======================================== [ "chapter.6.8.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.8.no-link.cpp
+======================================== [ "chapter.6.9.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.6.9.cpp
+chapter.6.9.cpp(120) : warning C4127: conditional expression is constant
+chapter.6.9.cpp(149) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.6.9.exe 
+chapter.6.9.obj 

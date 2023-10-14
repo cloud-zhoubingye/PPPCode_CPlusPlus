@@ -1,0 +1,199 @@
+======================================== [ "chapter.10.10.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.10.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.10.exe 
+chapter.10.10.obj 
+======================================== [ "chapter.10.11.1.no-link.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.11.1.no-link.cpp
+chapter.10.11.1.no-link.cpp(27) : warning C4018: '<' : signed/unsigned mismatch
+======================================== [ "chapter.10.11.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.11.2.cpp
+chapter.10.11.2.cpp(25) : warning C4018: '<' : signed/unsigned mismatch
+chapter.10.11.2.cpp(155) : warning C4127: conditional expression is constant
+chapter.10.11.2.cpp(270) : warning C4127: conditional expression is constant
+chapter.10.11.2.cpp(277) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.11.2.exe 
+chapter.10.11.2.obj 
+======================================== [ "chapter.10.11.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.11.3.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.11.3.exe 
+chapter.10.11.3.obj 
+======================================== [ "chapter.10.4-input.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.4-input.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.4-input.exe 
+chapter.10.4-input.obj 
+======================================== [ "chapter.10.4-output.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.4-output.cpp
+chapter.10.4-output.cpp(53) : warning C4018: '<' : signed/unsigned mismatch
+chapter.10.4-output.cpp(67) : warning C4100: 'points' : unreferenced formal parameter
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.4-output.exe 
+chapter.10.4-output.obj 
+======================================== [ "chapter.10.4-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.4-problematic.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.4-problematic.exe 
+chapter.10.4-problematic.obj 
+======================================== [ "chapter.10.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.5.cpp
+chapter.10.5.cpp(43) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.5.exe 
+chapter.10.5.obj 
+======================================== [ "chapter.10.6-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.6-better.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.6-better.exe 
+chapter.10.6-better.obj 
+======================================== [ "chapter.10.6-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.6-problematic.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.6-problematic.exe 
+chapter.10.6-problematic.obj 
+======================================== [ "chapter.10.6.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.6.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.6.exe 
+chapter.10.6.obj 
+======================================== [ "chapter.10.7-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.7-better.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.7-better.exe 
+chapter.10.7-better.obj 
+======================================== [ "chapter.10.7-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.7-problematic.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.7-problematic.exe 
+chapter.10.7-problematic.obj 
+======================================== [ "chapter.10.7.1-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.7.1-better.cpp
+chapter.10.7.1-better.cpp(34) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.7.1-better.exe 
+chapter.10.7.1-better.obj 
+======================================== [ "chapter.10.7.1-better2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.7.1-better2.cpp
+chapter.10.7.1-better2.cpp(37) : warning C4127: conditional expression is constant
+chapter.10.7.1-better2.cpp(51) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.7.1-better2.exe 
+chapter.10.7.1-better2.obj 
+======================================== [ "chapter.10.7.1-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.7.1-problematic.cpp
+chapter.10.7.1-problematic.cpp(16) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.7.1-problematic.exe 
+chapter.10.7.1-problematic.obj 
+======================================== [ "chapter.10.7.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.7.2.cpp
+chapter.10.7.2.cpp(32) : warning C4127: conditional expression is constant
+chapter.10.7.2.cpp(45) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.7.2.exe 
+chapter.10.7.2.obj 
+======================================== [ "chapter.10.8.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.8.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.8.exe 
+chapter.10.8.obj 
+======================================== [ "chapter.10.9.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.10.9.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.10.9.exe 
+chapter.10.9.obj 

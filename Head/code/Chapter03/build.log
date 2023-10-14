@@ -1,0 +1,205 @@
+======================================== [ "chapter.3.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.1.exe 
+chapter.3.1.obj 
+======================================== [ "chapter.3.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.2.cpp
+chapter.3.2.cpp(13) : warning C4189: 'number_of_steps' : local variable is initialized but not referenced
+chapter.3.2.cpp(19) : warning C4189: 'tap_on' : local variable is initialized but not referenced
+chapter.3.2.cpp(16) : warning C4189: 'decimal_point' : local variable is initialized but not referenced
+chapter.3.2.cpp(15) : warning C4189: 'flying_time' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.2.exe 
+chapter.3.2.obj 
+======================================== [ "chapter.3.3-first.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.3-first.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.3-first.exe 
+chapter.3.3-first.obj 
+======================================== [ "chapter.3.3-second.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.3-second.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.3-second.exe 
+chapter.3.3-second.obj 
+======================================== [ "chapter.3.3-third.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.3-third.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.3-third.exe 
+chapter.3.3-third.obj 
+======================================== [ "chapter.3.4-compare.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.4-compare.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.4-compare.exe 
+chapter.3.4-compare.obj 
+======================================== [ "chapter.3.4-concatenate.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.4-concatenate.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.4-concatenate.exe 
+chapter.3.4-concatenate.obj 
+======================================== [ "chapter.3.4-floats.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.4-floats.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.4-floats.exe 
+chapter.3.4-floats.obj 
+======================================== [ "chapter.3.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.4.cpp
+chapter.3.4.cpp(21) : warning C4189: 'c3' : local variable is initialized but not referenced
+chapter.3.4.cpp(24) : warning C4189: 'age' : local variable is initialized but not referenced
+chapter.3.4.cpp(18) : warning C4189: 'c2' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.4.exe 
+chapter.3.4.obj 
+======================================== [ "chapter.3.5.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.5.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.5.1.exe 
+chapter.3.5.1.obj 
+======================================== [ "chapter.3.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.5.cpp
+chapter.3.5.cpp(36) : warning C4189: 'y' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.5.exe 
+chapter.3.5.obj 
+======================================== [ "chapter.3.6.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.6.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.6.1.exe 
+chapter.3.6.1.obj 
+======================================== [ "chapter.3.7.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.7.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.7.exe 
+chapter.3.7.obj 
+======================================== [ "chapter.3.8.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.8.cpp
+chapter.3.8.cpp(16) : warning C4189: 'x' : local variable is initialized but not referenced
+chapter.3.8.cpp(13) : warning C4189: 'a' : local variable is initialized but not referenced
+chapter.3.8.cpp(14) : warning C4189: 'b' : local variable is initialized but not referenced
+chapter.3.8.cpp(15) : warning C4189: 'c' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.8.exe 
+chapter.3.8.obj 
+======================================== [ "chapter.3.9.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.9.1.cpp
+chapter.3.9.1.cpp(16) : warning C4244: 'initializing' : conversion from 'int' to 'char', possible loss of data
+chapter.3.9.1.cpp(21) : warning C4189: 'd2' : local variable is initialized but not referenced
+chapter.3.9.1.cpp(15) : warning C4189: 'i2' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.9.1.exe 
+chapter.3.9.1.obj 
+======================================== [ "chapter.3.9.2-second.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.9.2-second.cpp
+chapter.3.9.2-second.cpp(16) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+chapter.3.9.2-second.cpp(17) : warning C4244: 'initializing' : conversion from 'int' to 'char', possible loss of data
+chapter.3.9.2-second.cpp(27) : warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+chapter.3.9.2-second.cpp(29) : warning C4244: 'initializing' : conversion from 'int' to 'char', possible loss of data
+chapter.3.9.2-second.cpp(27) : warning C4189: 'y' : local variable is initialized but not referenced
+chapter.3.9.2-second.cpp(29) : warning C4189: 'b' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.9.2-second.exe 
+chapter.3.9.2-second.obj 
+======================================== [ "chapter.3.9.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.9.2.cpp
+chapter.3.9.2.cpp(14) : warning C4244: 'initializing' : conversion from 'int' to 'char', possible loss of data
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.9.2.exe 
+chapter.3.9.2.obj 
+======================================== [ "chapter.3.9.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.3.9.cpp
+chapter.3.9.cpp(13) : warning C4189: 'y' : local variable is initialized but not referenced
+chapter.3.9.cpp(14) : warning C4189: 'z' : local variable is initialized but not referenced
+c:\documents and settings\bs\desktop\112slides\code\chapter03\chapter.3.9.cpp(13) : warning C4700: uninitialized local variable 'x' used
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.3.9.exe 
+chapter.3.9.obj 

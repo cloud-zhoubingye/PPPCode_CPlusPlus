@@ -1,0 +1,138 @@
+Setting environment for using Microsoft Visual Studio 2008 x86 tools.
+======================================== [ "chapter.11.2.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.2.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.2.1.exe 
+chapter.11.2.1.obj 
+======================================== [ "chapter.11.2.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.2.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.2.2.exe 
+chapter.11.2.2.obj 
+======================================== [ "chapter.11.2.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.2.3.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.2.3.exe 
+chapter.11.2.3.obj 
+======================================== [ "chapter.11.2.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.2.4.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.2.4.exe 
+chapter.11.2.4.obj 
+======================================== [ "chapter.11.2.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.2.5.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.2.5.exe 
+chapter.11.2.5.obj 
+======================================== [ "chapter.11.3.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.3.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.3.1.exe 
+chapter.11.3.1.obj 
+======================================== [ "chapter.11.3.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.3.2.cpp
+chapter.11.3.2.cpp(39) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.3.2.exe 
+chapter.11.3.2.obj 
+======================================== [ "chapter.11.3.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.3.3.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.3.3.exe 
+chapter.11.3.3.obj 
+======================================== [ "chapter.11.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.4.cpp
+chapter.11.4.cpp(28) : warning C4189: 'd2' : local variable is initialized but not referenced
+chapter.11.4.cpp(29) : warning C4189: 'd3' : local variable is initialized but not referenced
+chapter.11.4.cpp(27) : warning C4189: 'd1' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.4.exe 
+chapter.11.4.obj 
+======================================== [ "chapter.11.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.5.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.5.exe 
+chapter.11.5.obj 
+======================================== [ "chapter.11.6.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.6.cpp
+chapter.11.6.cpp(57) : warning C4018: '<' : signed/unsigned mismatch
+chapter.11.6.cpp(57) : warning C4244: '=' : conversion from 'int' to 'char', possible loss of data
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.6.exe 
+chapter.11.6.obj 
+======================================== [ "chapter.11.7-better.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.7-better.cpp
+chapter.11.7-better.cpp(52) : warning C4018: '<' : signed/unsigned mismatch
+chapter.11.7-better.cpp(56) : warning C4244: '=' : conversion from 'int' to 'char', possible loss of data
+chapter.11.7-better.cpp(67) : warning C4018: '<' : signed/unsigned mismatch
+chapter.11.7-better.cpp(95) : warning C4018: '<' : signed/unsigned mismatch
+chapter.11.7-better.cpp(98) : error C3861: 'keep_window_open': identifier not found
+======================================== [ "chapter.11.7-problematic.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.11.7-problematic.cpp
+chapter.11.7-problematic.cpp(20) : warning C4018: '<' : signed/unsigned mismatch
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.11.7-problematic.exe 
+chapter.11.7-problematic.obj 

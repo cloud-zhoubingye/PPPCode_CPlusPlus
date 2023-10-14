@@ -1,0 +1,182 @@
+Setting environment for using Microsoft Visual Studio 2008 x86 tools.
+======================================== [ "chapter.24.2.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.2.1.cpp
+chapter.24.2.1.cpp(21) : warning C4127: conditional expression is constant
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.2.1.exe 
+chapter.24.2.1.obj 
+======================================== [ "chapter.24.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.2.cpp
+chapter.24.2.cpp(17) : warning C4305: 'initializing' : truncation from 'double' to 'float'
+chapter.24.2.cpp(24) : warning C4309: 'initializing' : truncation of constant value
+chapter.24.2.cpp(32) : warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+chapter.24.2.cpp(37) : warning C4305: 'initializing' : truncation from 'double' to 'float'
+chapter.24.2.cpp(38) : warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+chapter.24.2.cpp(47) : warning C4244: 'initializing' : conversion from 'int' to 'char', possible loss of data
+chapter.24.2.cpp(48) : warning C4244: 'initializing' : conversion from 'int' to 'short', possible loss of data
+chapter.24.2.cpp(51) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+chapter.24.2.cpp(52) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+chapter.24.2.cpp(53) : warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+chapter.24.2.cpp(48) : warning C4189: 's' : local variable is initialized but not referenced
+chapter.24.2.cpp(47) : warning C4189: 'c' : local variable is initialized but not referenced
+chapter.24.2.cpp(50) : warning C4189: 'lg' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.2.exe 
+chapter.24.2.obj 
+======================================== [ "chapter.24.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.4.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.4.exe 
+chapter.24.4.obj 
+======================================== [ "chapter.24.5.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.5.1.cpp
+c:\documents and settings\bs\desktop\112slides\code\chapter24\chapter.24.5.1.cpp(84) : warning C4702: unreachable code
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.5.1.exe 
+chapter.24.5.1.obj 
+======================================== [ "chapter.24.5.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.5.2.cpp
+chapter.24.5.2.cpp(39) : warning C4189: 'p' : local variable is initialized but not referenced
+chapter.24.5.2.cpp(72) : warning C4189: 'r' : local variable is initialized but not referenced
+c:\documents and settings\bs\desktop\112slides\code\chapter24\Matrix.h(242) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+        c:\documents and settings\bs\desktop\112slides\code\chapter24\Matrix.h(719) : see reference to function template instantiation 'Numeric_lib::Matrix<T,D>::Matrix<double(*)(double,double),Arg>(const Numeric_lib::Matrix<T,D> &,F,const Arg &)' being compiled
+        with
+        [
+            T=int,
+            D=1,
+            Arg=int,
+            F=double (*)(double,double)
+        ]
+        chapter.24.5.2.cpp(67) : see reference to function template instantiation 'A Numeric_lib::apply<double(*)(double,double),int,Numeric_lib::Matrix<T,D>>(F,A,Arg)' being compiled
+        with
+        [
+            A=Numeric_lib::Matrix<int,1>,
+            T=int,
+            D=1,
+            F=double (*)(double,double),
+            Arg=int
+        ]
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.5.2.exe 
+chapter.24.5.2.obj 
+======================================== [ "chapter.24.5.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.5.3.cpp
+chapter.24.5.3.cpp(54) : warning C4189: 'p' : local variable is initialized but not referenced
+chapter.24.5.3.cpp(51) : warning C4189: 's' : local variable is initialized but not referenced
+chapter.24.5.3.cpp(53) : warning C4189: 'd2' : local variable is initialized but not referenced
+chapter.24.5.3.cpp(52) : warning C4189: 'd1' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.5.3.exe 
+chapter.24.5.3.obj 
+======================================== [ "chapter.24.5.4.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.5.4.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.5.4.exe 
+chapter.24.5.4.obj 
+======================================== [ "chapter.24.5.5.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.5.5.cpp
+chapter.24.5.5.cpp(29) : warning C4189: 'p' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.5.5.exe 
+chapter.24.5.5.obj 
+======================================== [ "chapter.24.6.1.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.6.1.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.6.1.exe 
+chapter.24.6.1.obj 
+======================================== [ "chapter.24.6.2.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.6.2.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.6.2.exe 
+chapter.24.6.2.obj 
+======================================== [ "chapter.24.6.3.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.6.3.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.6.3.exe 
+chapter.24.6.3.obj 
+======================================== [ "chapter.24.7.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.7.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.7.exe 
+chapter.24.7.obj 
+======================================== [ "chapter.24.8.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.8.cpp
+chapter.24.8.cpp(21) : warning C4189: 's2' : local variable is initialized but not referenced
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.8.exe 
+chapter.24.8.obj 
+======================================== [ "chapter.24.9.cpp" ] 
+Microsoft (R) 32-bit C/C++ Optimizing Compiler Version 15.00.21022.08 for 80x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+chapter.24.9.cpp
+Microsoft (R) Incremental Linker Version 9.00.21022.08
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:chapter.24.9.exe 
+chapter.24.9.obj 

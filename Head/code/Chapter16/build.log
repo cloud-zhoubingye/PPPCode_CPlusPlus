@@ -1,0 +1,249 @@
+Setting environment for using Microsoft Visual Studio 2008 x86 tools.
+======================================== [ "chapter.16.5.cpp" ] 
+chapter.16.5.cpp
+..\GUI\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+..\GUI\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+..\GUI\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+..\GUI\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+..\GUI\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+..\GUI\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+..\GUI\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        ..\GUI\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+..\GUI\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch
+Graph.cpp
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+..\GUI\Graph.cpp(64) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\Graph.cpp(130) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+..\GUI\Graph.cpp(131) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+..\GUI\Graph.cpp(371) : warning C4800: 'void *' : forcing value to bool 'true' or 'false' (performance warning)
+..\GUI\Graph.cpp(396) : warning C4018: '>=' : signed/unsigned mismatch
+GUI.cpp
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+..\FLTK\FL/Fl_Button.H(66) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch
+Simple_window.cpp
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch
+Window.cpp
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\Window.cpp(74) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\Window.cpp(76) : warning C4018: '<' : signed/unsigned mismatch
+Generating Code...
+======================================== [ "chapter.16.7.cpp" ] 
+chapter.16.7.cpp
+..\GUI\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+..\GUI\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+..\GUI\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+..\GUI\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+..\GUI\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+..\GUI\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+..\GUI\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        ..\GUI\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+..\GUI\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch
+Graph.cpp
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+..\GUI\Graph.cpp(64) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\Graph.cpp(130) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+..\GUI\Graph.cpp(131) : warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+..\GUI\Graph.cpp(371) : warning C4800: 'void *' : forcing value to bool 'true' or 'false' (performance warning)
+..\GUI\Graph.cpp(396) : warning C4018: '>=' : signed/unsigned mismatch
+GUI.cpp
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+..\FLTK\FL/Fl_Button.H(66) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch
+Simple_window.cpp
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch
+Window.cpp
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\Window.cpp(74) : warning C4018: '<' : signed/unsigned mismatch
+..\GUI\Window.cpp(76) : warning C4018: '<' : signed/unsigned mismatch
+Generating Code...
+======================================== [ "chapter.16.8-1.no-link.cpp" ] 
+chapter.16.8-1.no-link.cpp
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch
+======================================== [ "chapter.16.8-2.no-link.cpp" ] 
+chapter.16.8-2.no-link.cpp
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(125) : warning C4244: '=' : conversion from 'Fl_Boxtype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(134) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\fltk\fl\Fl_Widget.H(136) : warning C4244: '=' : conversion from 'Fl_Labeltype' to 'uchar', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(45) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(46) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4305: 'initializing' : truncation from 'Graph_lib::Color::Transparency' to 'char'
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(47) : warning C4309: 'initializing' : truncation of constant value
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(48) : warning C4244: 'initializing' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(53) : warning C4244: '=' : conversion from 'Graph_lib::Color::Transparency' to 'char', possible loss of data
+c:\documents and settings\bs\desktop\112slides\code\gui\Graph.h(141) : error C2955: 'Vector' : use of class template requires template argument list
+        c:\documents and settings\bs\desktop\112slides\code\gui\../std_lib_facilities.h(76) : see declaration of 'Vector'
+        c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(99) : see reference to class template instantiation 'Graph_lib::Vector_ref<T>' being compiled
+        with
+        [
+            T=Graph_lib::Button
+        ]
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(107) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(112) : warning C4018: '<' : signed/unsigned mismatch
+c:\documents and settings\bs\desktop\112slides\code\gui\GUI.h(117) : warning C4018: '<' : signed/unsigned mismatch

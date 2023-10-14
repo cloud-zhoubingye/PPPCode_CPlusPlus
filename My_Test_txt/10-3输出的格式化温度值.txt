@@ -1,0 +1,24 @@
+Year: 2004
+Month: may
+
+Year: 1998
+Month: jan
+Day: 1
+Hour: 1
+Temperature: 15
+Month: feb
+Day: 1
+Hour: 1
+Temperature: 24.5
+Day: 2
+Hour: 2
+Temperature: 35.9
+Hour: 2
+Temperature: 35.8
+
+Year: 1999
+Month: dec
+Day: 15
+Hour: 15
+Temperature: 23
+
